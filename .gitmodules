@@ -132,7 +132,8 @@
 	url = https://github.com/diafygi/acme-tiny
 [submodule "inventory"]
 	path = inventory
-	url = https://github.com/ypid/ypid-ansible-inventory.git
+    #url = https://github.com/ypid/ypid-ansible-inventory.git
+	url = https://github.com/NGenetzky/ngenetzky-ansible-inventory.git
 [submodule "roles/dev-sec.apache-hardening"]
 	path = roles/dev-sec.apache-hardening
 	url = https://github.com/dev-sec/ansible-apache-hardening.git
